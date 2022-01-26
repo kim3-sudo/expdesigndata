@@ -4,8 +4,10 @@
 #'
 #' @return The version number as a package version object.
 #'
+#' @importFrom utils packageVersion
+#'
 #' @export
 eddversion <- function() {
-  print(paste("You have EDD version", as.factor(packageVersion("expdesigndata"))))
-  return(packageVersion("expdesigndata"))
+  print(paste("You have EDD version", as.factor(utils::packageVersion("expdesigndata"))))
+  return(utils::packageVersion("expdesigndata"))
 }

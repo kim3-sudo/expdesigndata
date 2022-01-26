@@ -9,11 +9,10 @@ Before contributing, please make sure you have the `devtools` package installed.
 If you would like to add a dataset, please use the following steps.
 
 1. Add your `.rda` file to the `./data` directory. *Do not add a `.rdata` or `.rds` file, as these won't render correctly!*
-2. (Ignore this section for now. If we need this later, we'll add it later.)~~Make a copy of the `./R/sampledataset.R` file and replace the information in the document with the proper information for the data that you're adding, including~~
-  - ~~Dataset title (line 1)~~
-  - ~~Dataset description (line 3)~~
-  - ~~Variable titles and descriptions (line 7 and after)~~
-  - ~~The name of the dataset that R should pick up (in quotes)~~
+2. Make a copy of the `./R/sampledataset.R` file and replace the information in the document with the proper information for the data that you're adding, including
+  - Dataset title (line 1)
+  - Dataset description (line 3)
+  - The name of the dataset that R should pick up (in quotes)
 3. Add the file to the table of contents using steps 1 and 2 in the *Updating the Table of Contents* section below.
 3. Regenerate the documentation and rebuild the package. Use the following commands, in this order.
 
