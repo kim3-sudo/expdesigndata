@@ -1,4 +1,4 @@
-Package: expdesign
+Package: expdesigndata
 Type: Package
 Title: Datasets For Experimental Design
 Version: 0.1.0
