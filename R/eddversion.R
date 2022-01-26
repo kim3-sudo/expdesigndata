@@ -7,5 +7,5 @@
 #' @export
 eddversion <- function() {
   print(paste("You have EDD version", as.factor(packageVersion("expdesigndata"))))
-  return
+  return(packageVersion("expdesigndata"))
 }
