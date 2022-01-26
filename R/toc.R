@@ -16,6 +16,8 @@
 #' \code{ballbearings} \tab {Problem 29} \cr
 #' \code{births} \tab {Problem 30} \cr
 #' \code{girders} \tab {Problem 31S} \cr
+#' \code{plasticpipe} \tab {Problem 32} \cr
+#' \code{siliconetching} \tab {Problem 34S} \cr
 #' }
 #' @examples
 #' \dontrun{
