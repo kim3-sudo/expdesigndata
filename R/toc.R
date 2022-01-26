@@ -37,6 +37,22 @@
 #' \code{ovens} \tab {Problem 3.30S} \cr
 #' \code{waferthickness} \tab {Problem 3.31} \cr
 #' \code{cncfeed} \tab {Problem 3.49} \cr
+#' \code{boltstrength} \tab {Problem 4.7S} \cr
+#' \code{milk} \tab {Problem 4.8} \cr
+#' \code{coupon} \tab {Problem 4.11} \cr
+#' \code{mailmarketing} \tab {Problem 4.12S} \cr
+#' \code{truck} \tab {Problem 4.13} \cr
+#' \code{developmentcost} \tab {Problem 4.14} \cr
+#' \code{leukemia} \tab {Problem 4.15} \cr
+#' \code{radiocontrol} \tab {Problem 4.16} \cr
+#' \code{aluminum} \tab {Problem 4.17S} \cr
+#' \code{eyefocus} \tab {Problem 4.23} \cr
+#' \code{newmaterial} \tab {Problem 4.24} \cr
+#' \code{assembly} \tab {Problem 4.25S} \cr
+#' \code{acid} \tab {Problem 4.37} \cr
+#' \code{assemblynew} \tab {Problem 4.38} \cr
+#' \code{additive} \tab {Problem 4.42S} \cr
+#' \code{hardwood} \tab {Problem 4.44S} \cr
 #' }
 #' @examples
 #' \dontrun{
