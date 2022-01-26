@@ -21,6 +21,9 @@ A guide to the datasets in expdesign. Datasets are listed under the Arguments se
 \code{plasma} \tab {Problem 2.25} \cr
 \code{thickness} \tab {Problem 2.27} \cr
 \code{cellphones} \tab {Problem 2.28S} \cr
+\code{ballbearings} \tab {Problem 29} \cr
+\code{births} \tab {Problem 30} \cr
+\code{girders} \tab {Problem 31S} \cr
 }
 }
 \examples{
