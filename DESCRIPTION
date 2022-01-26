@@ -1,0 +1,14 @@
+Package: expdesign
+Type: Package
+Title: Datasets For Experimental Design
+Version: 0.1.0
+Authors@R: c(
+  person("Douglas", "Montgomery", role = c("aut")),
+  person("Sejin", "Kim", email = "kim3@kenyon.edu", role=c("aut", "cre")))
+Description: Provides datasets in R for Montgomery, Douglass
+  Experimental Design
+License: GPL-2
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
