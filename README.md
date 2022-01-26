@@ -12,13 +12,13 @@ Install the package from GitHub using the devtools library.
 
 ```R
 install.packages("devtools") # if it isn't already installed on your system
-devtools::install_github("kim3-sudo/nsm3data")
+devtools::install_github("kim3-sudo/expdesigndata")
 ```
 
 After the package is installed, load the library into your current environment using the `library()` function.
 
 ```R
-library(nsm3data)
+library(expdesigndata)
 ```
 
 ## Usage
