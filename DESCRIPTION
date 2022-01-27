@@ -1,7 +1,7 @@
 Package: expdesigndata
 Type: Package
 Title: Datasets For Experimental Design
-Version: 0.1.9008
+Version: 0.1.9009
 Authors@R: c(
   person("Douglas", "Montgomery", role = c("aut")),
   person("Sejin", "Kim", email = "kim3@kenyon.edu", role=c("aut", "cre")))
