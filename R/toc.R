@@ -10,7 +10,7 @@
 #' \code{hours} \tab {Problem 2.21} \cr
 #' \code{machines} \tab {Problem 2.23} \cr
 #' \code{flares} \tab {Problem 2.25} \cr
-#' \code{plasma} \tab {Problem 2.25} \cr
+#' \code{plasma} \tab {Problem 2.26S} \cr
 #' \code{thickness} \tab {Problem 2.27} \cr
 #' \code{cellphones} \tab {Problem 2.28S} \cr
 #' \code{ballbearings} \tab {Problem 2.29} \cr
