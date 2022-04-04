@@ -87,6 +87,7 @@ A guide to the datasets in expdesign. Datasets are listed under the Arguments se
 \code{keyboards} \tab {Problem 5.40} \cr
 \code{chemical6} \tab {Problem 6.11} \cr
 \code{virusgrowth} \tab {Problem 6.12} \cr
+\code{fillheight} \tab {Problem 6.20} \cr
 \code{processdev} \tab {Problem 6.26} \cr
 }
 }
